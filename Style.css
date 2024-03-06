@@ -1,0 +1,13 @@
+.card{
+    background-color: rgb(216, 216, 216);
+    border: none;
+}
+
+#card-bg{
+    background-color: rgb(244, 244, 244);
+    height: 40em;
+    
+}
+.fa{
+    color: blue;
+}
